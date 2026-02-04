@@ -78,24 +78,7 @@ The project uses a normalized schema consisting of two related tables: `netflix_
 
 ---
 
-### 10. What are the top 3 genres with the highest average IMDb scores, and how many titles do they have?
-- **Approach**: Aggregated `AVG(IMDBScore)` and `COUNT(Title)`, ordered and limited the results.
-- **Insight**: Identified top genres by quality and volume:  
-  ✅ **Concert Film**, ✅ **Historical**, ✅ **Documentary**
 
----
-
-
-
-## 📈 Conclusion
-
-This project uncovered how Netflix distributes its creative efforts across genres, what viewers prefer, and which content categories consistently perform well. The analytical process serves as a blueprint for content strategists, data analysts, and entertainment researchers looking to understand media trends using SQL.
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm open to collaboration on data analysis, SQL automation, and media analytics projects.
 
 📧 Email: [saitejhas49@gmail.com](mailto:saitejhas49@gmail.com)  
 🔗 LinkedIn: [L.N. Sai Tejhas](https://linkedin.com/in/lnsaitejhas)
