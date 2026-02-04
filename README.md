@@ -85,12 +85,7 @@ The project uses a normalized schema consisting of two related tables: `netflix_
 
 ---
 
-## 🛠️ Tools Used
 
-- **SQL** (Core Query Logic)
-- **Google Sheets and MS Excel** (Output Review & Presentation)
-
----
 
 ## 📈 Conclusion
 
