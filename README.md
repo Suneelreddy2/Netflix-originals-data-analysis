@@ -76,13 +76,4 @@ The project uses a normalized schema consisting of two related tables: `netflix_
 - **Approach**: Applied `WHERE` and `HAVING` conditions to extract genres with high-performing titles.
 - **Insight**: Only **Documentary** met the criteria, showing consistent quality and quantity.
 
----
-
-
-
-📧 Email: [saitejhas49@gmail.com](mailto:saitejhas49@gmail.com)  
-🔗 LinkedIn: [L.N. Sai Tejhas](https://linkedin.com/in/lnsaitejhas)
-
----
-
-> Thank you for exploring this project! ⭐ If you found it helpful, consider giving the repo a star!
+-
